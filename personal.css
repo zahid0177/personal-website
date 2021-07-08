@@ -1,0 +1,40 @@
+h2{
+    color: rgb(245, 42, 177);
+    font-weight: bold;
+    font-size: 60px;
+    font-family: 'Source Code Pro', monospace;
+}
+ body{
+    font-family: 'Source Code Pro', monospace;
+    margin: 0%;
+ }
+
+.para{
+    width: 40%;
+    float: left;
+    margin-left: 10%;
+    padding: 40px;
+}
+#p{
+  
+    width: 450px;
+    padding-top: 50px;
+}
+p{
+    color: rgb(76, 82, 87);
+    
+    
+}
+.first-width{
+    background-image: url(image/header-bg.png);
+    background-size: 80%;
+    
+}
+.link{
+    background-color: rgb(245, 42, 177);
+    color: white;
+    padding: 6px 22px;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 5px;
+}
